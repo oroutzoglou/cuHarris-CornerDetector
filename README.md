@@ -10,4 +10,4 @@ Compile
 Run
 ----------
 
-<code>$ ./main input.pgm output.pgm </code>
+<code>$ ./harris input_images/picture.pgm output_images/picture.pgm</code>
