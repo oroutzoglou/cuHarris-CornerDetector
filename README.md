@@ -1,5 +1,5 @@
-# cuharris-corner-detector
-A Real time Harris Corner Detector designed for embedded NVIDIA GPUs
+# A Real time Harris Corner Detector designed for embedded NVIDIA GPUs
+
 
 Compile
 ----------
